@@ -315,7 +315,7 @@ Please replace the author field and update the proceedings metadata after the of
 ```bibtex
 @inproceedings{paff2026,
   title={Phase-Aligned Finite-Fourier Periodic Deformation for 4D Medical Image Interpolation},
-  author={Haojin Li, Hengzhuo Wang, Zhiheng Ma, Mingyang Ou, Heng Li, Jiang Liu},
+  author={Li, Haojin and Wang, Hengzhuo and Ma, Zhiheng and Ou, Mingyang and Li, Heng and Liu, Jiang},
   booktitle={Proceedings of the ACM International Conference on Multimedia},
   year={2026}
 }
