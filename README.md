@@ -30,7 +30,7 @@ Key components include:
 
 LRVF performs endpoint-only unsupervised interpolation by constraining motion to structured Tucker low-rank velocity-field spaces. It separates globally shared spatial bases from compact sample-specific cores and predicts motion at coarse, middle, and fine resolutions for anatomically coherent coarse-to-fine deformation.
 
-![LRVF architecture](assets/architecture.png)
+![LRVF architecture](assets/lrvf_architecture.png)
 
 ## Environment
 
